@@ -4,12 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. student since 2024, advised by [Prof. Changjian Chen](https://changjianchen.github.io/), at the College of Computer Science and Electronic Engineering, Hunan University. My research interests are in the area of visual analytics, especially visual analysis methods to improve training data quality.
 
-## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
