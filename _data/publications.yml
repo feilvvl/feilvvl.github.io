@@ -3,7 +3,7 @@ main:
   - title: 面向超级计算机系统的可视化综述
     authors: <strong>吕斐</strong>, 陈长建, 张嘉鹏, 冯冼, 唐卓.
     conference_short: CAD&CG
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: 计算机辅助设计与图形学学报, 2024, 36(3): 321-335.
     pdf: https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024.2023-00791.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
