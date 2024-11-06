@@ -1,11 +1,11 @@
 main:
 
-  - title: 面向超级计算机系统的可视化综述
-    authors: <strong>吕斐</strong>, 陈长建, 张嘉鹏, 冯冼, 唐卓.
+  - title: Visualization for Supercomputer System: A Survey
+    authors: <strong>Lyu Fei</strong>, Chen Changjian, Zhang Jiapeng, Feng Xian, Tang Zhuo.
     conference_short: CAD&CG
-    conference: "计算机辅助设计与图形学学报, 2024, 36(3):321-335."
+    conference: "Journal of Computer-Aided Design & Computer Graphics, 2024, 36(3):321-335."
     pdf: https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024.2023-00791.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     page: https://www.jcad.cn/cn/article/Y2024/I3/321
-    image: ./assets/img/cadcg.png
+    image: ./assets/img/cadcg.jpg
     # notes: Early Accept
