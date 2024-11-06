@@ -6,6 +6,6 @@ main:
     conference: 计算机辅助设计与图形学学报, 2024, 36(3): 321-335.
     pdf: https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024.2023-00791.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    page: https://www.jcad.cn/cn/article/Y2024/I3/321
     image: ./assets/img/cadcg.png
     # notes: Early Accept
