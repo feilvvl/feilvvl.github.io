@@ -9,7 +9,7 @@ I am currently a Ph.D. student since 2024, advised by [Prof. Changjian Chen](htt
 
 ## News
 
-- **[May. 2024]** My first paper is accepted by CAD&CG.
+- **[Mar. 2024]** My first paper is accepted by CAD&CG.
 
 
 {% include_relative _includes/publications.md %}
