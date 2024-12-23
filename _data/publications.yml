@@ -1,5 +1,15 @@
 main:
+  - title: "Human-Guided Image Generation for Small-Scale Training Datasets Expansion"
+    authors: Changjian Chen, <strong>Fei Lv</strong>, Yalong Guan, Pengcheng Wang, Shengjie Yu, Yifan Zhang, and Zhuo Tang.
+    conference_short: "PacificVis(TVCG track)"
+    conference: "IEEE Pacific Visualization Conference"
+  #   pdf: https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024.2023-00791.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   page: https://www.jcad.cn/cn/article/Y2024/I3/321
+    image: ./assets/img/datacrafter.png
+    notes: To be appear
 
+    
   - title: "Visualization for Supercomputer System: A Survey"
     authors: <strong>Lyu Fei</strong>, Chen Changjian, Zhang Jiapeng, Feng Xian, Tang Zhuo.
     conference_short: CAD&CG
@@ -10,12 +20,4 @@ main:
     image: ./assets/img/cadcg.jpg
     # notes: Early Accept
 
-  - title: "Human-Guided Image Generation for Small-Scale Training Datasets Expansion"
-    authors: Changjian Chen, <strong>Fei Lv</strong>, Yalong Guan, Pengcheng Wang, Shengjie Yu, Yifan Zhang, and Zhuo Tang.
-    conference_short: "PacificVis(TVCG track)"
-    conference: "IEEE Pacific Visualization Conference"
-  #   pdf: https://www.jcad.cn/cn/article/pdf/preview/10.3724/SP.J.1089.2024.2023-00791.pdf
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   page: https://www.jcad.cn/cn/article/Y2024/I3/321
-    image: ./assets/img/datacrafter.png
-    notes: To be appear
+  
