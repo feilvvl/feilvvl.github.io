@@ -8,8 +8,8 @@ I am currently a Ph.D. student since 2024, advised by [Prof. Changjian Chen](htt
 
 
 ## News
-
-- **[Mar. 2024]** My first paper is accepted by CAD&CG.
+- **[Dec. 2024]** One paper has been accepted by PacificVis (TVCG Track). 🎉🎉
+- **[Mar. 2024]** My first paper is accepted by CAD&CG. 🎉🎉
 
 
 {% include_relative _includes/publications.md %}
