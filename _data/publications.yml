@@ -1,5 +1,5 @@
 main:
-    - title: "Interactive Hybrid Rice Breeding with Parametric Dual Projection"
+  - title: "Interactive Hybrid Rice Breeding with Parametric Dual Projection"
     authors: Changjian Chen, Pengcheng Wang, <strong>Fei Lyu</strong>, Zhuo Tang, Li Yang, Long Wang, Yong Cai, Feng Yu, and Kenli Li.
     conference_short: "IEEE VIS 2025"
     conference: "IEEE VIS 2025 (also presented in IEEE Transactions on Visualization and Computer Graphics)"
