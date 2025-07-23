@@ -1,12 +1,23 @@
 main:
   - title: "Interactive Hybrid Rice Breeding with Parametric Dual Projection"
     authors: Changjian Chen, Pengcheng Wang, <strong>Fei Lyu</strong>, Zhuo Tang, Li Yang, Long Wang, Yong Cai, Feng Yu, and Kenli Li.
-    conference_short: "IEEE VIS 2025"
+    conference_short: "VIS 2025"
     conference: "IEEE VIS 2025 (also presented in IEEE Transactions on Visualization and Computer Graphics)"
     pdf: "https://arxiv.org/pdf/2507.11848"
     code: "https://github.com/hnu-vis/ParametricDualProjection"
     # page: "https://ieeexplore.ieee.org/document/10988674"
     image: ./assets/img/hybridlens.png
+    notes: To be appear
+   
+
+  - title: "Enhancing Small-Scale Dataset Expansion with Triplet-Connection-based Sample Re-Weighting"
+    authors: Ting Xiang, Changjian Chen, Zhuo Tang, Qifeng Zhang, <strong>Fei Lyu</strong>, Li Yang, Jiapeng Zhang, Kenli Li.
+    conference_short: "MM2025"
+    conference: "ACM MM 2025,"
+    # pdf: "https://arxiv.org/pdf/2507.11848"
+    # code: "https://github.com/hnu-vis/ParametricDualProjection"
+    # page: "https://ieeexplore.ieee.org/document/10988674"
+    image: ./assets/img/reweighting.png
     notes: To be appear
     
   - title: "Human-Guided Image Generation for Small-Scale Training Datasets Expansion"
