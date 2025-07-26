@@ -21,7 +21,7 @@ main:
     notes: To be appear
     
   - title: "Human-Guided Image Generation for Small-Scale Training Datasets Expansion"
-    authors: Changjian Chen, <strong>Fei Lv</strong>, Yalong Guan, Pengcheng Wang, Shengjie Yu, Yifan Zhang, and Zhuo Tang.
+    authors: Changjian Chen*, <strong>Fei Lv*</strong>, Yalong Guan, Pengcheng Wang, Shengjie Yu, Yifan Zhang, and Zhuo Tang.
     conference_short: "PacificVis(TVCG track) 2025"
     conference: "IEEE PacificVis 2025 (also presented in IEEE Transactions on Visualization and Computer Graphics)"
     pdf: "https://arxiv.org/pdf/2412.16839"
