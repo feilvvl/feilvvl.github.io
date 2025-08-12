@@ -14,7 +14,7 @@ main:
     authors: Ting Xiang, Changjian Chen, Zhuo Tang, Qifeng Zhang, <strong>Fei Lyu</strong>, Li Yang, Jiapeng Zhang, Kenli Li.
     conference_short: "MM2025"
     conference: "ACM MM 2025"
-    # pdf: "https://arxiv.org/pdf/2507.11848"
+    pdf: "https://arxiv.org/abs/2508.07723"
     # code: "https://github.com/hnu-vis/ParametricDualProjection"
     # page: "https://ieeexplore.ieee.org/document/10988674"
     image: ./assets/img/reweighting.png
